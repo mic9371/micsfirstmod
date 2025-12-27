@@ -1,0 +1,13 @@
+{
+  "itemGroup.micsfirstmod": "Example Mod Tab",
+  "block.micsfirstmod.example_block": "Example Block",
+  "item.micsfirstmod.example_item": "Example Item",
+
+  "micsfirstmod.configuration.title": "Mic's First Mod Configs",
+  "micsfirstmod.configuration.section.micsfirstmod.common.toml": "Mic's First Mod Configs",
+  "micsfirstmod.configuration.section.micsfirstmod.common.toml.title": "Mic's First Mod Configs",
+  "micsfirstmod.configuration.items": "Item List",
+  "micsfirstmod.configuration.logDirtBlock": "Log Dirt Block",
+  "micsfirstmod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "micsfirstmod.configuration.magicNumber": "Magic Number"
+}
